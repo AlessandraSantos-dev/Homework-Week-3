@@ -37,7 +37,11 @@ p {
   line-height: 1.5;
   text-align: center;
 }
-
+footer {
+  font-size: 12px;
+  margin-top: 10px;
+  text-align: center;
+}
 .navigation-links {
   display: flex;
   margin-top: 40px;
